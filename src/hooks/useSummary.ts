@@ -10,7 +10,7 @@ export function useSummary() {
   // quero reduzir o meu array de transactions para isso - { income: 0, outcome: 0, total: 0 }
 
   const summary = useMemo(() => {
-    transactions.reduce(
+    return transactions.reduce(
       (acc, transaction) => {
         if (transaction.type === 'income') {
           acc.income += transaction.price
