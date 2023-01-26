@@ -9,6 +9,8 @@ Este é o DT Money, projeto da aula onde foi desenvolvido uma aplicação para g
 
 ## Demonstração
 
+https://user-images.githubusercontent.com/103855358/214911929-962eb66d-19bb-4d24-b576-aea773ddd9cb.mp4
+
 ## Stack utilizada
 
 **Front-end:** React, TypeScript
