@@ -4,7 +4,7 @@ Este é o DT Money, projeto da aula onde foi desenvolvido uma aplicação para g
 
 - Listagem de entradas e saídas de dinheiro
 - Cadastrar uma nova entrada ou saída de dinheiro
-- Fazer buscas
+- Faz er buscas
 - Exibir o valor total das entradas, valor total das saídas e o valor total da carteira
 
 ## Demonstração
